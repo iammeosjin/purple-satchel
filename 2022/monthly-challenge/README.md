@@ -1,5 +1,5 @@
 ## MONTHLY CHALLENGE
-Create an `GRAPHQL API` for each month that works alike to their respective techs
+Create a `GRAPHQL API` for each month that works alike to their respective techs
 - January&emsp;&ensp;&ensp;- N/A
 - February&emsp;&ensp;- N/A
 - March&emsp;&emsp;&ensp;- Kanban Board
